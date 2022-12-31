@@ -1,0 +1,7 @@
+
+				moduleId = 3767867516
+				partNickName =
+				rowIndex = -1
+				axisName = lightB
+				timeValueCurve
+				{
