@@ -5,14 +5,14 @@
 
 # resolution settings
 horizontal_resolution = 25
-aspect_ratio = 4/3
+aspect_ratio = 16/9
 
 # project settings
-path_to_video = '//BadApple.mp4'  # path to video
+path_to_video = 'path/to/your/video.mp4'  # path to video
 frame_count = 100  # how many frames will be written?
 
-path_to_craft = 'C:/Games/KSP/KSP with expansion/Kerbal Space Program/saves/Color/Ships/VAB/'  # path to VAB/SPH folder
-craft_name = 'display_mono'  # craft file name
+path_to_craft = 'C:/.../Kerbal Space Program/saves/save_name/Ships/VAB/'  # path to VAB/SPH folder
+craft_name = 'craft_name'  # craft file name
 # if you don't know how many frames in your video
 # go to python console and type these commands:
 # import cv2
